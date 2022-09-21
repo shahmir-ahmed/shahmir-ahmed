@@ -2,7 +2,6 @@
 - 🌱 I’m a ```Web Developer```.
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Software Development
-- 📫 How to reach me ... 
 - 📫 How to reach me:
 - Email: ahmed1212514@gmail.com
 - Linkedin: https://www.linkedin.com/in/shahmir-ahmed-922124241/
