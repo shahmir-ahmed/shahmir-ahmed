@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Shahmir Ahmed.
-- 🌱 I’m a ```Web Developer```.
-- 🌱 I’m currently learning ```Laravel```
-- 💞️ I’m looking to collaborate on Software Development
+- ⚡ I’m interested in ```Web Development```.
+- 🌱 I’m currently learning ```Laravel```.
+- 👯 I’m looking to collaborate on Software Development.
 - 📫 How to reach me:
 - Email: ahmed1212514@gmail.com
 - Linkedin: https://www.linkedin.com/in/shahmir-ahmed-922124241/
