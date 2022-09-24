@@ -6,14 +6,17 @@
 - Email: ahmed1212514@gmail.com
 - Linkedin: https://www.linkedin.com/in/shahmir-ahmed-922124241/
 - Portfolio: In progress...
+
+<!--
 <hr>
 
 ###  About my GitHub: 👇🏻
 
 ![Shahmir's github stats](https://github-readme-stats.vercel.app/api?username=shahmir-ahmed&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-ahmed&layout=compact&hide_border=true)
-<br>
+-->
 <!---
+<br>
 <hr>
 <p align="center"> 
   Total Visitors on Shahmir's Profile<br>
