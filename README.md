@@ -7,7 +7,7 @@
 - Linkedin: https://www.linkedin.com/in/shahmir-ahmed-922124241/
 - Portfolio: In progress...
 
-<!--
+
 <hr>
 
 ###  About my GitHub: 👇🏻
@@ -22,7 +22,7 @@
   Total Visitors on Shahmir's Profile<br>
   <img src="https://profile-counter.glitch.me/shahmir-ahmed/count.svg" />
 </p>
--->
+
 
 <!---
 shahmir-ahmed/shahmir-ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
