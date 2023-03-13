@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 👨‍💻 All of my projects are available at [In Progress...](In Progress...)
+- 👨‍💻 All of my projects are available at [In Progress...]
 
 - 📫 How to reach me **ahmed1212514@gmail.com**
 
