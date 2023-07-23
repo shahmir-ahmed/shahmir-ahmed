@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/shahmir_ahmed20" target="blank"><img src="https://img.shields.io/twitter/follow/shahmir_ahmed20?logo=twitter&style=for-the-badge" alt="shahmir_ahmed20" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Web & Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [In Progress...]
 
