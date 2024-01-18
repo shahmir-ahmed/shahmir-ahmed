@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Mobile App, Desktop, Web Development**
+- 👯 I’m looking to collaborate on **Mobile App, Desktop App, Web Development**
 
 - 👨‍💻 All of my projects are available at [In Progress...]
 
